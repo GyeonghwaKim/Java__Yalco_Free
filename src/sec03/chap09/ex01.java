@@ -3,6 +3,7 @@ package sec03.chap09;
 public class ex01 {
 
     public static void main(String[] args) {
+        //지역변수만 사용가능
         var intNum = 1;
         var doubleNum = 3.14;
         var charLet = 'A';
