@@ -1,4 +1,4 @@
-package sec06.chap07;
+package sec06.chap08;
 
 import java.util.StringJoiner;
 

@@ -1,4 +1,4 @@
-package sec06.chap07.ex02;
+package sec06.chap08;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
